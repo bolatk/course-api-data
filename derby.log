@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jul 06 23:57:11 ALMT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0173-2546-4c02-00001195a028 
+on database directory memory:C:\github\course-api-data\98d99359-0a89-4747-bfdf-229d2a5288c3 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@6ed3ef1 
+Loaded from file:/C:/Users/%d0%91%d0%be%d0%bb%d0%b0%d1%82/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=JetBrains s.r.o
+java.runtime.version=11.0.6+8-b520.66
+user.dir=C:\github\course-api-data
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
